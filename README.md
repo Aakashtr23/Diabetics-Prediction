@@ -1,0 +1,1 @@
+The objective of our machine learning project is to develop a robust and accurate predictive model for diabetes. By harnessing the power of data analytics and artificial intelligence, our goal is to enable early detection of diabetes, thereby facilitating timely interventions and personalized treatment plans.
